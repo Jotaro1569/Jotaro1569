@@ -36,6 +36,7 @@ Currently focusing on AI-powered SaaS development and CTF-based learning.
 - **TryHackMe Jr. Penetration Tester** – [Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YICGRNTGPE.pdf)  
 - **Foundation Course in AI Applications** – NIELIT (Score: 180/200)
 
+
 ---
 
 ## 🛠 Tech Stack  
@@ -53,7 +54,7 @@ Currently focusing on AI-powered SaaS development and CTF-based learning.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/robinder-singh-6a8502363/)  
 - 💻 [GitHub Projects](https://github.com/Jotaro1569)  
-- 🏆 [TryHackMe Profile](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YICGRNTGPE.pdf)
+- 🏆 [TryHackMe Profile](https://tryhackme.com/p/Jotaro1)
 
 ---
 
