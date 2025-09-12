@@ -58,4 +58,4 @@ Currently focusing on AI-powered SaaS development and CTF-based learning.
 
 ---
 
-⭐ **Fun Fact:** *"Offense is the best defense."* — I love CTFs and ethical hacking challenges that sharpen my skills.
+⭐ **Fun Fact:** *"Offense is the best defense."* .I love CTFs and ethical hacking challenges that sharpen my skills.
