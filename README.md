@@ -32,7 +32,7 @@ Currently focusing on AI-powered SaaS development and CTF-based learning.
 ---
 
 ## 🏅 Achievements & Certifications  
-- **Code in Place 2025** – Stanford University (Python Programming)  
+- **Code in Place 2025** – Stanford University (Python Programming)[Certificate](https://codeinplace.stanford.edu/cip5/certificate/iqj7ow) 
 - **TryHackMe Jr. Penetration Tester** – [Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YICGRNTGPE.pdf)  
 - **Foundation Course in AI Applications** – NIELIT (Score: 180/200)
 
