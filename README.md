@@ -20,9 +20,18 @@ Currently focusing on AI-powered SaaS development and CTF-based learning.
 ### [NextLeap – AI-Powered SaaS](https://next-leap-iota.vercel.app/)  
 > A full-stack SaaS platform to assess skills, track progress, and recommend learning paths.  
 
-## 🛠 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,nextjs,react,tailwind,linux,git" />
+
+# 🛠 Tech Stack (Project)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/clerkinc/clerk-docs/main/static/images/logo-dark.svg" height="40" alt="Clerk" />
+  <img src="https://raw.githubusercontent.com/neondatabase/neon/main/.logo/neon-logo.svg" height="40" alt="NeonDB" />
+  <img src="https://www.inngest.com/brand/inngest-logo-dark.svg" height="40" alt="Inngest" />
 </p>
 
 - 🔐 Clerk authentication & role-based access  
@@ -50,6 +59,10 @@ Currently focusing on AI-powered SaaS development and CTF-based learning.
 | **Frameworks & Libraries** | Next.js, Tailwind CSS |
 | **Developer Tools** | Git, VS Code, Google Workspace, Linux |
 | **Core Areas** | Web Development, Cybersecurity, Problem-Solving |
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,nextjs,react,tailwind,linux,git" />
+</p>
 
 ---
 
