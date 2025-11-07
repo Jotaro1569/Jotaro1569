@@ -28,9 +28,22 @@ Currently focusing on AI-powered SaaS development and CTF-based learning.
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />
 </p>
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/clerk" height="40" alt="Clerk" />
+<p align="left" style="display:flex;align-items:center;gap:10px;">
+  <img src="https://cdn.simpleicons.org/clerk" alt="Clerk" style="width:40px;height:40px;" />
+
+  <span title="NeonDB"
+        style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;border-radius:50%;
+               background:#00E599;color:#000;font-weight:700;font-family:Segoe UI,Arial,sans-serif;">
+    N
+  </span>
+
+  <span title="Inngest"
+        style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;border-radius:50%;
+               background:#111827;color:#fff;font-weight:700;font-family:Segoe UI,Arial,sans-serif;">
+    I
+  </span>
 </p>
+
 
 - 🔐 Clerk authentication & role-based access  
 - 🤖 AI-powered MCQ assessments with auto-scoring  
