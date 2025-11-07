@@ -22,10 +22,15 @@ Currently focusing on AI-powered SaaS development and CTF-based learning.
 
 
 # 🛠 Tech Stack (Project)
+
+<p style="font-weight:600; margin-bottom:6px;">
+  Tech Stack (Frontend): Next.js · Tailwind CSS · Vercel
+</p>
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" />
 </p>
 
 <p style="font-weight:600; margin-bottom:6px;">
@@ -33,11 +38,9 @@ Currently focusing on AI-powered SaaS development and CTF-based learning.
 </p>
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/clerk"
-       alt="Clerk"
-       height="40"
-       style="vertical-align:middle;" />
+  <img src="https://cdn.simpleicons.org/clerk" height="40" />
 </p>
+
 
 
 
