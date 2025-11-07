@@ -29,9 +29,7 @@ Currently focusing on AI-powered SaaS development and CTF-based learning.
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/clerkinc/clerk-docs/main/static/images/logo-dark.svg" height="40" alt="Clerk" />
-  <img src="https://raw.githubusercontent.com/neondatabase/neon/main/.logo/neon-logo.svg" height="40" alt="NeonDB" />
-  <img src="https://www.inngest.com/brand/inngest-logo-dark.svg" height="40" alt="Inngest" />
+  <img src="https://cdn.simpleicons.org/clerk" height="40" alt="Clerk" />
 </p>
 
 - 🔐 Clerk authentication & role-based access  
