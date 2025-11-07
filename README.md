@@ -20,7 +20,10 @@ Currently focusing on AI-powered SaaS development and CTF-based learning.
 ### [NextLeap – AI-Powered SaaS](https://next-leap-iota.vercel.app/)  
 > A full-stack SaaS platform to assess skills, track progress, and recommend learning paths.  
 
-**Tech Stack:** `Next.js` `Clerk` `NeonDB` `Inngest` `Tailwind CSS`  
+## 🛠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,nextjs,react,tailwind,linux,git" />
+</p>
 
 - 🔐 Clerk authentication & role-based access  
 - 🤖 AI-powered MCQ assessments with auto-scoring  
