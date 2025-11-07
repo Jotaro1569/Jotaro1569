@@ -28,13 +28,15 @@ Currently focusing on AI-powered SaaS development and CTF-based learning.
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />
 </p>
 
+<p style="font-weight:600; margin-bottom:6px;">
+  Tech Stack (Services): Clerk · NeonDB · Inngest
+</p>
+
 <p align="left">
   <img src="https://cdn.simpleicons.org/clerk"
        alt="Clerk"
        height="40"
-       style="vertical-align:middle;margin-right:8px;" />
-  **Tech Stack (Services):** Clerk · NeonDB · Inngest
-
+       style="vertical-align:middle;" />
 </p>
 
 
