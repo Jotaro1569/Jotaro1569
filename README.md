@@ -28,21 +28,27 @@ Currently focusing on AI-powered SaaS development and CTF-based learning.
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />
 </p>
 
-<p align="left" style="display:flex;align-items:center;gap:10px;">
-  <img src="https://cdn.simpleicons.org/clerk" alt="Clerk" style="width:40px;height:40px;" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/clerk"
+       alt="Clerk"
+       height="40"
+       style="vertical-align:middle;margin-right:8px;" />
 
   <span title="NeonDB"
-        style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;border-radius:50%;
-               background:#00E599;color:#000;font-weight:700;font-family:Segoe UI,Arial,sans-serif;">
+        style="display:inline-block;width:40px;height:40px;line-height:40px;text-align:center;border-radius:50%;
+               background:#00E599;color:#000;font-weight:700;font-family:Segoe UI,Arial,sans-serif;
+               vertical-align:middle;margin-right:8px;">
     N
   </span>
 
   <span title="Inngest"
-        style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;border-radius:50%;
-               background:#111827;color:#fff;font-weight:700;font-family:Segoe UI,Arial,sans-serif;">
+        style="display:inline-block;width:40px;height:40px;line-height:40px;text-align:center;border-radius:50%;
+               background:#111827;color:#fff;font-weight:700;font-family:Segoe UI,Arial,sans-serif;
+               vertical-align:middle;">
     I
   </span>
 </p>
+
 
 
 - 🔐 Clerk authentication & role-based access  
